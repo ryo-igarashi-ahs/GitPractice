@@ -1,3 +1,2 @@
-feature/Marioブランチを作成しました
-テキストファイルを作成しました
-origin/feature/Marioブランチを作成しPushしました
+
+
